@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*prints Programming is like building a multilingual puzzle*/
+/**
+ *main - Entry point
+ *Description: whatever the programme does
+ *Return: Always 0 (Success)
+ */
 int main(void)
 {
 
